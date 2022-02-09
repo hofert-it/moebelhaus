@@ -1,0 +1,71 @@
+{
+	"products": [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Grifo",
+			"text": "Nachtlampe",
+			"labels": "",
+			"image": "05.jpg",
+			"price": "79,00",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Muggo",
+			"text": "Becher",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "Neu"
+				}
+			],
+			"image": "06.jpg",
+			"price": "5,00",
+			"priceOld": "10,00",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Pingky",
+			"text": "Süßes Bettset",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+			],
+			"image": "07.jpg",
+			"price": "849,00",
+			"priceOld": "1699,00",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Potty",
+			"text": "Minimalistischer Blumentopf",
+			"labels": [
+				{
+					"type": "new",
+					"value": "Neu"
+				}
+			],
+			"image": "08.jpg",
+			"price": "7,00",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}
